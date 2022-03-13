@@ -1,0 +1,52 @@
+[
+  {
+    "en": "Programming today is a race between software engineers striving to build bigger and better idiot-proof programs.",
+    "ru": "Программирование сегодня — это гонка разработчиков программ, стремящихся писать программы больше и с лучшей идиотоустойчивостью.",
+    "author": "Rick Cook"
+  },
+  {
+    "en": "Walking on water and developing software from a specification are easy if both are frozen",
+    "ru": "Ходить по воде и разрабатывать программы, следуя спецификации, очень просто… если они заморожены.",
+    "author": "Edward V Berard"
+  },
+  {
+    "en": "They don't make bugs like Bunny anymore",
+    "ru": "Они больше не делают баги, как Банни.",
+    "author": "Olav Mjelde"
+  },
+  {
+    "en": "A programming language is low level when its programs require attention to the irrelevant.",
+    "ru": "Низкоуровневый язык — это когда требуется внимание к вещам, которые никак не связаны с программами на этом языке.",
+    "author": "Alan J. Perlis"
+  },
+  {
+    "en": "When someone says, «I want a programming language that can do whatever I tell him», then I give that person a lollipop.",
+    "ru": "Когда кто-то говорит: «Я хочу язык программирования, который может делать все, что ему скажу», то я даю этому человеку леденец.",
+    "author": "Alan J. Perlis"
+  },
+  {
+    "en": "Talk is cheap. Show me the code.",
+    "ru": "Болтовня ничего не стоит. Покажите мне код.",
+    "author": "Linus Torvalds"
+  },
+  {
+    "en": "Beware of bugs in the above code. I have only proved it correct, not tried it.",
+    "ru": "Опасайтесь багов в приведенном выше коде; я только доказал корректность, но не запускал его.",
+    "author": "Donald E. Knuth"
+  },
+  {
+    "en": "Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code.",
+    "ru": "Иногда лучше остаться спать дома в понедельник, чем провести всю неделю отлаживая написанный в понедельник код.",
+    "author": "Christopher Thompson"
+  },
+  {
+    "en": "Measuring programming progress by lines of code is like measuring aircraft building progress by weight.",
+    "ru": "Измерять продуктивность программирования подсчетом строк кода — это так же, как оценивать постройку самолета по его весу.",
+    "author": "Bill Gates"
+  },
+  {
+    "en": "Debugging is twice as hard as writing the code in the first place.",
+    "ru": "Отладка кода вдвое сложнее, чем его написание.",
+    "author": "Brian W. Kernighan"
+  }
+]
